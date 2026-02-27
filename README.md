@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+">
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
-  <img src="https://img.shields.io/badge/arXiv-2502.XXXXX-b31b1b.svg" alt="arXiv">
   <img src="https://img.shields.io/badge/experiments-50%2B%20runs-orange.svg" alt="50+ experiments">
 </p>
 
