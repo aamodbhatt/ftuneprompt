@@ -191,7 +191,7 @@ finetune-or-prompt/
 
 > **Fine-Tune or Prompt? An Empirical Decision Framework for NLP Practitioners**
 > Aamod Bhatt · cs.CL · February 2025
-> [arXiv:2502.XXXXX](https://arxiv.org/abs/2502.XXXXX)
+> [arXiv:2502.XXXXX](https://arxiv.org/abs/2502.XXXXX) [TO BE PUBLISHED]
 ```bibtex
 @misc{bhatt2025finetuneorprompt,
   title   = {Fine-Tune or Prompt? An Empirical Decision Framework for NLP Practitioners},
